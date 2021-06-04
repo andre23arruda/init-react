@@ -1,0 +1,12 @@
+#next-page {
+	width: 100%;
+	max-width: 1100px;
+ 	margin: 0 auto;
+}
+
+
+@media(max-width: 800px) {
+	#next-page form  {
+		background-color: aliceblue;
+	}
+}
